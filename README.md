@@ -30,7 +30,7 @@ An in-depth **data analytics project** uncovering key performance insights and t
 2. Or, download the file and open it in **Jupyter Notebook** or **Google Colab**.
 
 ## 📊 About the Author
-Created by **Samir Hussain** — passionate about **sports analytics** and **data storytelling**.
+Created by **Harris Ali** — passionate about **sports analytics** and **data storytelling**.
 
 ---
 ⭐ If you found this project interesting, don’t forget to **star** the repo!
